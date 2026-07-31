@@ -1,6 +1,6 @@
 ### Hi, I'm Dirk
 
-Humble learner exploring AI and building things.
+Humble learner exploring AI and building things.  
 Old-school engineer at heart (Fortran, Pascal, COBOL, C, Basic) now diving into modern tools and AI.
 
 Currently focused on:
